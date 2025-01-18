@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+templatebundle.net	TRUE	/	FALSE	1999999999	project1_session	14d0f3074c39e6f0d87f488ef880982579d0b147
+
